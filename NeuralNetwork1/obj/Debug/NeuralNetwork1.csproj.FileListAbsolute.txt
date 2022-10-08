@@ -1,0 +1,32 @@
+C:\Users\Hamdan\Downloads\SimpleNeuralNetwork-master\SimpleNeuralNetwork-master\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.exe.config
+C:\Users\Hamdan\Downloads\SimpleNeuralNetwork-master\SimpleNeuralNetwork-master\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.exe
+C:\Users\Hamdan\Downloads\SimpleNeuralNetwork-master\SimpleNeuralNetwork-master\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.pdb
+C:\Users\Hamdan\Downloads\SimpleNeuralNetwork-master\SimpleNeuralNetwork-master\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.AssemblyReference.cache
+C:\Users\Hamdan\Downloads\SimpleNeuralNetwork-master\SimpleNeuralNetwork-master\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamdan\Downloads\SimpleNeuralNetwork-master\SimpleNeuralNetwork-master\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.CoreCompileInputs.cache
+C:\Users\Hamdan\Downloads\SimpleNeuralNetwork-master\SimpleNeuralNetwork-master\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.exe
+C:\Users\Hamdan\Downloads\SimpleNeuralNetwork-master\SimpleNeuralNetwork-master\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.pdb
+C:\Users\Hamdan\Desktop\Machine Learning\Week 7\Week 7 Assignement\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.exe.config
+C:\Users\Hamdan\Desktop\Machine Learning\Week 7\Week 7 Assignement\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.exe
+C:\Users\Hamdan\Desktop\Machine Learning\Week 7\Week 7 Assignement\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.pdb
+C:\Users\Hamdan\Desktop\Machine Learning\Week 7\Week 7 Assignement\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.AssemblyReference.cache
+C:\Users\Hamdan\Desktop\Machine Learning\Week 7\Week 7 Assignement\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamdan\Desktop\Machine Learning\Week 7\Week 7 Assignement\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.CoreCompileInputs.cache
+C:\Users\Hamdan\Desktop\Machine Learning\Week 7\Week 7 Assignement\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.exe
+C:\Users\Hamdan\Desktop\Machine Learning\Week 7\Week 7 Assignement\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.pdb
+C:\Users\Hamdan\Desktop\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.exe.config
+C:\Users\Hamdan\Desktop\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.exe
+C:\Users\Hamdan\Desktop\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.pdb
+C:\Users\Hamdan\Desktop\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.AssemblyReference.cache
+C:\Users\Hamdan\Desktop\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamdan\Desktop\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.CoreCompileInputs.cache
+C:\Users\Hamdan\Desktop\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.exe
+C:\Users\Hamdan\Desktop\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.pdb
+C:\Users\Hamdan\Desktop\My Master Files\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.exe.config
+C:\Users\Hamdan\Desktop\My Master Files\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.exe
+C:\Users\Hamdan\Desktop\My Master Files\NeuralNetwork1\NeuralNetwork1\bin\Debug\NeuralNetwork1.pdb
+C:\Users\Hamdan\Desktop\My Master Files\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.AssemblyReference.cache
+C:\Users\Hamdan\Desktop\My Master Files\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamdan\Desktop\My Master Files\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.csproj.CoreCompileInputs.cache
+C:\Users\Hamdan\Desktop\My Master Files\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.exe
+C:\Users\Hamdan\Desktop\My Master Files\NeuralNetwork1\NeuralNetwork1\obj\Debug\NeuralNetwork1.pdb
